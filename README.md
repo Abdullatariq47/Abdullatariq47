@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Abdullah Tariq
+# 👋 Hi, I'm Abdullah Tariq
 
 🚀 **Flutter Developer | AI/ML Mobile Integration Specialist** 🧠 **Dart & Python | Clean Architecture | Performance Optimization**
 
